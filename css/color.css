@@ -1,0 +1,110 @@
+/*
+	Appdent Color CSS
+*/
+.navbar-fixed.header_section,
+#scroll-to-top,
+.subscribe_section,
+.download_section,
+.mid_table,
+.video_section:before,
+.shot_item .screen_thumb figcaption a,
+.owl-nav div,
+.feature_list .list_item i,
+.app_btn,
+.hero_section:before{
+    background: #f98f1c;
+    background: -moz-linear-gradient(-45deg, #f98f1c 0%, #f45442 100%);
+    background: -webkit-linear-gradient(-45deg, #f98f1c 0%,#f45442 100%);
+    background: linear-gradient(135deg, #f98f1c 0%,#f45442 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f98f1c', endColorstr='#f45442',GradientType=1 );
+}
+.testimonial_items .owl-dots .owl-dot.active{
+	background-color: #f98f1c;
+}
+.post_thumb .blog_title,
+.post_thumb .span {
+	background-color: rgba(247,112,48,0.8);
+}
+.footer_menu li a,
+.social_link li a,
+.subscribe_form .submit,
+.post_content .read_more_btn:hover,
+.testimonial_item h4,
+.download_content li a,
+.list_check li:before,
+.promo_items .promo_item i{
+    color: #f98f1c;
+}
+
+
+/** color **/
+
+.boats-skipper-search-box .title i:before,
+.sec-title .icon span:before,
+.main-menu .navigation> li> ul> li> a:hover,
+.main-menu .navigation> li> ul> li> ul> li> a:hover,
+.single-blog-post .text-holder .blog-title a:hover,
+.mobile-menu .navigation li.current > a,
+.mobile-menu .navigation li > a:hover,
+.mobile-menu .social-links li a:hover,
+.boats-featured-box ul li:hover h3 a,
+.single-sidebar .lat-posts li .img-holder .overlay-style-one .box .content a:hover i,
+.single-sidebar .lat-posts li .title-holder .post-title a:hover,
+.single-sidebar .categories li a:hover,
+.single-sidebar .popular-tag li a:hover,
+.contact-form .title i:before,
+.contact-information-box .contact-us li a:hover,
+.main-menu .navigation>li>ul>li>ul>li a:before,
+.main-menu .navigation> li> ul> li> a:before{
+  color: #33c7c5;
+}
+
+/** background **/
+
+.thm_bgclr3,
+.main-menu .navigation>li:hover>a,
+.main-menu .navigation>li.current>a,
+.social-links-style1 li a:hover i,
+.boats-skipper-form button:hover,
+.single-testimonial-style1 .img-box .bg-color,
+.owl-nav-style-one.owl-theme .owl-nav [class*="owl-"]:hover,
+.boats-skipper-search-box:before,
+.header-upper-left-style2 .header-social-links .social-links-style1 li:hover a i,
+.single-team-member .title .social-links .social-links-style1 li a:hover i,
+.slogan-area.style2,
+.slogan-content.style2,
+.blog-single-area .tag-box .right .social-links-style1 li a:hover i,
+.contact-form:before,
+.sidebar-search-box .search-form input[type="text"]:focus + button,
+.sidebar-search-box .search-form button:hover,
+.contact-information-box .social-links-style1 li a:hover i{
+  background-color: #33c7c5;    
+}
+
+/** border-color **/
+
+.boat-image-box:hover:after,
+.social-links-style1 li a:hover i,
+.contact-form form input[type="text"]:focus,
+.contact-form form input[type="email"]:focus,
+.contact-form form textarea:focus,
+.blog-single-area .tag-box .right .social-links-style1 li a:hover i{
+  border-color: #33c7c5;    
+}
+.contact-information-box .social-links-style1 li a:hover i {
+  border: 1px solid #33c7c5;
+}
+.sidebar-search-box .search-form input[type="text"]:focus {
+  border: 1px solid #33c7c5;
+}
+.mobile-menu .navigation li > a:before{
+  border-left: 5px solid #33c7c5;
+}
+
+
+.btn-one {
+  background: #ffe701;
+}
+.thm-bgclr1{
+  background-color: #ffe701;
+}
